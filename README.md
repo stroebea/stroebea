@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew.
-I’m an old codger that loves to program in C on Linux and Windows.
+I’m an old codger that loves to program in C on Linux and Windows as well as micro controllers such like Arduino or ESP32.
 
 <!---
 stroebea/stroebea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
